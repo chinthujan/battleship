@@ -1,8 +1,8 @@
-# battleship-tdd
+# battleship
 
 A battleship game designed with Test-Driven Development methodology. Implemented with vanilla JS, HTML and CSS. Testing implemented with Jest.
 
-LIVE DEMO: https://maximilian-aoki.github.io/battleship-tdd/
+LIVE DEMO: https://chinthujan.github.io/battleship/
 
 UNIT TESTING (JEST)
 
